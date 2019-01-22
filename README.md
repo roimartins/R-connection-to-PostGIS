@@ -6,6 +6,8 @@ Each example is given in R Script format together with a practical applicaiton o
 ## Simple features
 [Simple features] (https://github.com/r-spatial/sf/) is the new package for spatial data management in R , it is a significant improvement in relation to SP package since between others it follows OGC spatial data standards. This facilitate the interoperability with other different open source software for spatial data management and analysis ( PostGIS , QGIS , R, etc ) .
 
+using [GitHub Pages](https://pages.github.com/).
+
 
 
 
